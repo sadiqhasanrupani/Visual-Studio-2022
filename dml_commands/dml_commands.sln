@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dml_commands", "dml_commands\dml_commands.csproj", "{292252A6-7216-4713-82ED-0ABE52DC489C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292252A6-7216-4713-82ED-0ABE52DC489C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292252A6-7216-4713-82ED-0ABE52DC489C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292252A6-7216-4713-82ED-0ABE52DC489C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292252A6-7216-4713-82ED-0ABE52DC489C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B72E56A3-3B18-4965-898E-CD2E3A2FC05C}
+	EndGlobalSection
+EndGlobal
